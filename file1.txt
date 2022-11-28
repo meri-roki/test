@@ -1,8 +1,5 @@
-this is the first f
-üüüüüüüüüüü
-+++++++++++++
+this is the first file
+
 ööööööööööö
-ääääääääääääää
 ---------
-............
-,,,,,,,,,,,
+rrrrrrrrrrrr
